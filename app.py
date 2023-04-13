@@ -1,0 +1,1 @@
+print("Markus Seeli ist der beste Lehrer an der BBZBL.")
