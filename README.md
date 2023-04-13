@@ -1,2 +1,3 @@
 # M347
-Lösung der Aufgabe im Modul 347
+Dies ist die Lösung der Aufgabe im Modul 347
+
